@@ -1,0 +1,1 @@
+FROM gcr.io/triggermesh/triggermesh-controller:v1.27.0

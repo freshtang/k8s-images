@@ -1,0 +1,1 @@
+FROM gcr.io/triggermesh/triggermesh-webhook:v1.27.0
