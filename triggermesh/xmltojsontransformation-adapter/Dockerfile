@@ -1,0 +1,1 @@
+FROM gcr.io/triggermesh/xmltojsontransformation-adapter:v1.27.0

@@ -1,0 +1,1 @@
+FROM gcr.io/triggermesh/xslttransformation-adapter:v1.27.0
