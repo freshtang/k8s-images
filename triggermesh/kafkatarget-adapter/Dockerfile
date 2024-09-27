@@ -1,0 +1,1 @@
+FROM gcr.io/triggermesh/kafkatarget-adapter:v1.27.0
