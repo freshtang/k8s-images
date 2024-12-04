@@ -1,3 +1,3 @@
-FROM debian:stable-slim
+FROM debian:buster
 
 RUN apk update && apk add curl
