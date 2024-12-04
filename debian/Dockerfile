@@ -1,3 +1,3 @@
 FROM debian:stable-slim
 
-RUN apt install curl
+RUN apk update && apk add curl
