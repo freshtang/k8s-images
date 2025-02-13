@@ -1,0 +1,1 @@
+FROM pravega/zookeeper:0.2.15
