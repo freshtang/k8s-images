@@ -1,0 +1,1 @@
+FROM ghcr.io/banzaicloud/kafka:2.13-3.4.1
