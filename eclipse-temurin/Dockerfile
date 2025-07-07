@@ -1,0 +1,1 @@
+FROM eclipse-temurin:17.0.3_7-jre
