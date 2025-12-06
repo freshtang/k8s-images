@@ -1,1 +1,1 @@
-FROM docker.io/apecloud/kafka:3.3.2-debian-11-r54
+FROM docker.io/apecloud/kafka:3.9.0-debian-12-r13
